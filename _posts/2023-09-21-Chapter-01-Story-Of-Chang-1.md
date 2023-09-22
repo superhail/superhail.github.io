@@ -14,7 +14,7 @@ title: Story of Chang - Chapter One - 2023-09-21
 <p align="center">
     <img src="{{ site.baseurl }}/images/story_of_chang_chapter_01/chang.png" style="width: 400px;"/>
 </p>
-*张博士与自己厕所遗骸和反引力装置合影*
+*张博士与自家厕所遗骸和反引力装置合影*
 
 3030，老张静立CBD，抬头观望月球，那一天的异常导致了很多生物的灭绝，其中也包括亚洲驴，作为一位研究亚洲驴的生物学家，在观赏月亮的时候，
 老张很难不代入自己的工作内容，把它当作一头巨大的驴。
